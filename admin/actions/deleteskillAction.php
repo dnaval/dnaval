@@ -16,7 +16,7 @@ $bdinst = $bdobject->connect();
 $dncl = new DAN($bdinst);
 
 if(isset($_GET['ID'])) {
-    //Delete User
+    //Delete Skills
     $sup = $dncl->deleteSkills($_GET['ID']);
     
     if($sup==1) {

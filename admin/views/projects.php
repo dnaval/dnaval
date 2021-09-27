@@ -37,6 +37,7 @@ $roleid = $_SESSION['role'];
             <?php 
                 if($roleid != 2) { 
                     echo '<a href="./index.php?dan=addproject"><button class="btn btn-secondary btn-space float-end me-2">Add project</button></a>';
+                    echo '<a href="./index.php?dan=projecttype"><button class="btn btn-secondary btn-space float-end me-2">Project Type</button></a>';
                 } 
              ?>
         </h1>

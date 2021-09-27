@@ -16,7 +16,7 @@ $fx = new dnfunctions();
     <br/>
 
     <h1>
-        <span>Add user</span>
+        <span>Add Skills</span>
         <a href="./index.php?dan=skills"><button class='btn btn-secondary float-end'>Skills list</button></a>
     </h1>
 

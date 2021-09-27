@@ -2,7 +2,7 @@
 /* 
  * COMPANY: DNAVAL (2021)
  * Author: Daniel Naval
- * Description: App Class (DNAVAL)
+ * Description: Users Class (DNAVAL)
  */
 
 class Users {

@@ -16,7 +16,7 @@ $bdinst = $bdobject->connect();
 $dncl = new DAN($bdinst);
 
 if(isset($_GET['ID'])) {
-    //Delete User
+    //Delete Project
     $sup = $dncl->deleteProject($_GET['ID']);
     
     if($sup==1) {
