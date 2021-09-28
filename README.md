@@ -1,4 +1,4 @@
-# Login Admin Users
+# Daniel Naval Portfolio
 
 My Personal Portfolio built with Bootstrap 5, PHP and MySQL. I created a backend interface for my website.
 
@@ -9,7 +9,7 @@ My Personal Portfolio built with Bootstrap 5, PHP and MySQL. I created a backend
 * Option to add and update the skills and projects.
 * Possibility to add users and manage the users.
 
-![dnaval]()
+![dnaval](https://github.com/dnaval/dnaval/blob/dnaval/myportfolio.gif)
 
 ## Getting Started
 
