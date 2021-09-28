@@ -1,4 +1,4 @@
-# Daniel Naval Portfolio
+# Daniel Naval
 
 ## Application Support Analyst / Web Developer
 
