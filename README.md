@@ -1,42 +1,17 @@
 # Daniel Naval Portfolio
 
-My Personal Portfolio built with Bootstrap 5, PHP and MySQL. I created a backend interface for my website.
+Application Support Analyst / Web Developer
+Committed to provide a pleasant experience for business application users. Dedicated team player willing to collaborate with coworkers to fix problems and complete projects in a timely manner. Innovative team player with a passion for continuous learning and solid background in Object-Oriented programming. Ability to develop web application and application specifications. Knowledge of basic computer system analysis, design, testing, debugging, and maintenance techniques and practices.
 
-## Description
+## Skills
 
-* Portfolio Frontend with the section below: About, Skills, Resume, Portfolio and Contact form
-* Backend with option to update the necessary details in all the section above.
-* Option to add and update the skills and projects.
-* Possibility to add users and manage the users.
+* HTML/CSS, JavaScript, PHP, SQL, JAVA, C#, ASP.NET
+* SQL SERVER (+SSIS and SSRS), MYSQL, ORACLE 
+* WINDOWS SERVER, LINUX (DEBIAN, UBUNTU), WAMP and LAMP
+* WORDPRESS, DRUPAL, SHAREPOINT (2016 and 365) 
+* Laravel (PHP), Bootstrap(HTML/CSS)
 
-![dnaval](https://github.com/dnaval/dnaval/blob/master/myportfolio.gif)
-
-## Getting Started
-
-### Dependencies
-
-* Wampserver or LAMP server With the specification below.
-* MySQL version: 5.7.31  (DATABASE)
-* PHP Version: 7.4.9     (POGRAMMING LANGUAGE)
-* Bootsrap version: 5    (HTML / CSS)
-* Activate PDO_MySQL extension for PHP 7.4
-
-### Installing
-
-* Create your MySQL database and then import the dnaval.sql file.
-* Update the file zen-config-sample.php with your database credentials and place it outside of the root directory.
-* Rename the zen-config-sample.php to zen-cionfig.php
-* Update the location of the zen-config.php file ("require_once 'C:\wamp64\config\zen-config.php';") in admin/models/DBController.php file and config/dbconfigPDO.php
-
-### Executing program
-
-* Upload the project in a folder in your root directory
-* The frontend "assets" folder is avaialble from this template https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-* To access the backend via the browser get in the admin folder "http://localhost/yourprojectfolder/admin" and login with username: admin@dnaval.com / password: admin
-
-## Authors
-
-Contributors names and contact info
+## Contact
 
 Daniel Naval 
 [@navald27](https://twitter.com/navald27)
