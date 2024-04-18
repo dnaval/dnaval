@@ -6,11 +6,11 @@ Committed to provide a pleasant experience for business application users. Dedic
 
 ## Skills
 
-* HTML/CSS, JavaScript, PHP, SQL, JAVA, C#, ASP.NET
+* HTML/CSS, JavaScript, PHP, SQL, JAVA, C#, ASP.NET, PYTHON
 * SQL SERVER (+SSIS and SSRS), MYSQL, ORACLE 
 * WINDOWS SERVER, LINUX (DEBIAN, UBUNTU), WAMP and LAMP
 * WORDPRESS, DRUPAL, SHAREPOINT (2016 and 365) 
-* Laravel (PHP), Bootstrap(HTML/CSS)
+* Laravel (PHP), Bootstrap(HTML/CSS), Flask (Python)
 
 ## Contact
 
